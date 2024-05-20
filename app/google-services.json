@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945738015761",
+    "project_id": "space-fba74",
+    "storage_bucket": "space-fba74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945738015761:android:7337b5c5a015666bbe7db0",
+        "android_client_info": {
+          "package_name": "com.shatrudhan.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945738015761-uu74n7q40aa3p0h4j2nu51rg4rpq42j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shatrudhan.space",
+            "certificate_hash": "f7dc92be2eb26b7c2b0a12062d1b4ab45e0c93a4"
+          }
+        },
+        {
+          "client_id": "945738015761-0k698d744308m7co90cdh1542ec7aqoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyoQ1Eu5Wh1KI6jPeZyMur0JzI4zyhUUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945738015761-0k698d744308m7co90cdh1542ec7aqoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
